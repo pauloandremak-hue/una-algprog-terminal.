@@ -4,7 +4,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 - `cd`: Para navegar entre pastas.
 - `dir`: Para listar arquivos.
-- mkdir criar pastas
+- mkdir criar Pasta 
 - cd .. para voltar uma pasta acima da pasta atual
 - explorer .para abrir o explorador de arquivos exatamente na pasta onde voce esta no cmd
 
