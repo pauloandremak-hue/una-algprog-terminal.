@@ -6,7 +6,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `dir`: Para listar arquivos.
 - mkdir criar Pasta 
 - cd .. para voltar uma pasta acima da pasta atual
-- explorer .para abrir o explorador de arquivos exatamente na pasta onde voce esta no cmd
+- explorer . para abrir o explorador de arquivos exatamente na pasta onde voce esta no cmd
 
 Processador(es):                           1 processador(es) instalado(s).
                                            [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1696 Mhz
